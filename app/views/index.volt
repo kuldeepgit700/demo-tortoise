@@ -14,7 +14,7 @@
         <div class="cover-container">
           <div class="masthead clearfix">
             <div class="inner">
-              <h3 class="masthead-brand">CRUD Phalcon</h3>
+              <h3 class="masthead-brand">CRUD Phalcondsdsds</h3>
               <nav>
               <?php
                if ($this->session->has('auth')){
